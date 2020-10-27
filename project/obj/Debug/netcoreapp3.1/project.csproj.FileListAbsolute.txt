@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\Joao\project\project\bin\Debug\netcoreapp3.1\project.exe
+C:\Users\lucas\Desktop\Joao\project\project\bin\Debug\netcoreapp3.1\project.deps.json
+C:\Users\lucas\Desktop\Joao\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.json
+C:\Users\lucas\Desktop\Joao\project\project\bin\Debug\netcoreapp3.1\project.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Joao\project\project\bin\Debug\netcoreapp3.1\project.dll
+C:\Users\lucas\Desktop\Joao\project\project\bin\Debug\netcoreapp3.1\project.pdb
+C:\Users\lucas\Desktop\Joao\project\project\obj\Debug\netcoreapp3.1\project.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Joao\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Joao\project\project\obj\Debug\netcoreapp3.1\project.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Joao\project\project\obj\Debug\netcoreapp3.1\project.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Joao\project\project\obj\Debug\netcoreapp3.1\project.dll
+C:\Users\lucas\Desktop\Joao\project\project\obj\Debug\netcoreapp3.1\project.pdb
+C:\Users\lucas\Desktop\Joao\project\project\obj\Debug\netcoreapp3.1\project.genruntimeconfig.cache
